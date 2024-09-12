@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "question": "Do you prefer aggressive or defensive gameplay?",
+      "answers": [
+        {
+          "text": "Aggressive",
+          "points": {
+            "Zeus": 2,
+            "Thor": 2,
+            "Set": 2,
+            "Oranos": 2,
+            "Loki": 1,
+            "Hades": 0,
+            "Isis": 0,
+            "Gaia": 0,
+            "Poseidon": 0,
+            "Ra": 0,
+            "Odin": 0,
+            "Kronos": 0
+          }
+        },
+        {
+          "text": "Defensive",
+          "points": {
+            "Hades": 2,
+            "Isis": 2,
+            "Gaia": 2,
+            "Poseidon": 1,
+            "Zeus": 0,
+            "Thor": 0,
+            "Set": 0,
+            "Oranos": 0,
+            "Loki": 0,
+            "Ra": 0,
+            "Odin": 0,
+            "Kronos": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Which is more important to you, economy or military power?",
+      "answers": [
+        {
+          "text": "Economy",
+          "points": {
+            "Ra": 3,
+            "Isis": 2,
+            "Thor": 2,
+            "Gaia": 1,
+            "Zeus": 0,
+            "Hades": 0,
+            "Poseidon": 0,
+            "Set": 0,
+            "Oranos": 0,
+            "Loki": 0,
+            "Odin": 0,
+            "Kronos": 0
+          }
+        },
+        {
+          "text": "Military",
+          "points": {
+            "Zeus": 2,
+            "Odin": 2,
+            "Loki": 2,
+            "Poseidon": 1,
+            "Ra": 0,
+            "Isis": 0,
+            "Thor": 0,
+            "Gaia": 0,
+            "Hades": 0,
+            "Set": 0,
+            "Oranos": 0,
+            "Kronos": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Do you like focusing on myth units and god powers?",
+      "answers": [
+        {
+          "text": "Yes",
+          "points": {
+            "Loki": 3,
+            "Oranos": 2,
+            "Set": 2,
+            "Hades": 1,
+            "Zeus": 0,
+            "Ra": 0,
+            "Poseidon": 0,
+            "Isis": 0,
+            "Gaia": 0,
+            "Thor": 0,
+            "Odin": 0,
+            "Kronos": 0
+          }
+        },
+        {
+          "text": "No",
+          "points": {
+            "Zeus": 2,
+            "Ra": 2,
+            "Hades": 2,
+            "Poseidon": 1,
+            "Loki": 0,
+            "Oranos": 0,
+            "Set": 0,
+            "Isis": 0,
+            "Gaia": 0,
+            "Thor": 0,
+            "Odin": 0,
+            "Kronos": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Do you want a strong navy?",
+      "answers": [
+        {
+          "text": "Yes",
+          "points": {
+            "Poseidon": 3,
+            "Oranos": 1,
+            "Zeus": 1,
+            "Hades": 0,
+            "Ra": 0,
+            "Thor": 0,
+            "Isis": 0,
+            "Gaia": 0,
+            "Set": 0,
+            "Loki": 0,
+            "Odin": 0,
+            "Kronos": 0
+          }
+        },
+        {
+          "text": "No",
+          "points": {
+            "Hades": 2,
+            "Ra": 2,
+            "Thor": 1,
+            "Zeus": 0,
+            "Poseidon": 0,
+            "Oranos": 0,
+            "Isis": 0,
+            "Gaia": 0,
+            "Set": 0,
+            "Loki": 0,
+            "Odin": 0,
+            "Kronos": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer a flexible, mobile strategy or strong positional play?",
+      "answers": [
+        {
+          "text": "Flexible",
+          "points": {
+            "Oranos": 3,
+            "Kronos": 2,
+            "Loki": 1,
+            "Zeus": 0,
+            "Hades": 0,
+            "Poseidon": 0,
+            "Isis": 0,
+            "Gaia": 0,
+            "Thor": 0,
+            "Ra": 0,
+            "Set": 0,
+            "Odin": 0
+          }
+        },
+        {
+          "text": "Positional",
+          "points": {
+            "Hades": 3,
+            "Gaia": 2,
+            "Isis": 1,
+            "Zeus": 0,
+            "Poseidon": 0,
+            "Thor": 0,
+            "Oranos": 0,
+            "Loki": 0,
+            "Ra": 0,
+            "Set": 0,
+            "Odin": 0,
+            "Kronos": 0
+          }
+        }
+      ]
+    }
+  ]
+}

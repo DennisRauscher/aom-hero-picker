@@ -1,0 +1,460 @@
+{
+  "gods": [
+    {
+      "id": 1,
+      "name": "Zeus",
+      "artwork": "AoMR_Zeus_artwork.webp",
+      "pros": [
+        "Strong infantry, especially Hoplites.",
+        "Thunderbolt god power deals direct damage to units.",
+        "Favors direct military confrontations."
+      ],
+      "cons": [
+        "Lacks strong economic bonuses.",
+        "Naval power weaker compared to Poseidon."
+      ],
+      "counters": [2, 6],
+      "counteredBy": [3, 5],
+      "guides": [
+        {
+          "title": "Zeus Guide - Master of Infantry",
+          "link": "https://www.youtube.com/watch?v=ZeusGuide1"
+        },
+        {
+          "title": "Zeus Strategy - How to Dominate with Hoplites",
+          "link": "https://www.youtube.com/watch?v=ZeusGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 5,
+        "economicGrowth": 3,
+        "defensiveCapabilities": 3,
+        "aggressionEarlyGamePower": 5,
+        "mobilityMapControl": 2,
+        "godPowerEffectiveness": 5,
+        "mythUnitStrength": 4,
+        "navalPower": 2,
+        "scoutingVision": 2,
+        "lateGamePotential": 3
+      }
+    },
+    {
+      "id": 2,
+      "name": "Hades",
+      "artwork": "AoMR_Hades_artwork.webp",
+      "pros": [
+        "Defensive playstyle with fortified structures.",
+        "Shades (ghost soldiers) return after death to keep fighting.",
+        "Great for long, drawn-out battles."
+      ],
+      "cons": [
+        "Slow economic growth compared to other gods.",
+        "Lacks early-game aggression."
+      ],
+      "counters": [6, 12],
+      "counteredBy": [1, 7],
+      "guides": [
+        {
+          "title": "Hades Guide - Fortify Your Stronghold",
+          "link": "https://www.youtube.com/watch?v=HadesGuide1"
+        },
+        {
+          "title": "Hades Strategy - Using Shades Effectively",
+          "link": "https://www.youtube.com/watch?v=HadesGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 4,
+        "economicGrowth": 2,
+        "defensiveCapabilities": 5,
+        "aggressionEarlyGamePower": 2,
+        "mobilityMapControl": 2,
+        "godPowerEffectiveness": 3,
+        "mythUnitStrength": 3,
+        "navalPower": 2,
+        "scoutingVision": 3,
+        "lateGamePotential": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Poseidon",
+      "artwork": "AoMR_Poseidon_artwork.webp",
+      "pros": [
+        "Strong naval power, ideal for water-heavy maps.",
+        "Cavalry units benefit from bonuses like the Hetairos cavalry unit.",
+        "Lure god power attracts animals for easy food collection."
+      ],
+      "cons": [
+        "Not as strong on land-focused maps.",
+        "Fewer bonuses for infantry compared to other Greek gods."
+      ],
+      "counters": [1, 4],
+      "counteredBy": [10, 12],
+      "guides": [
+        {
+          "title": "Poseidon Guide - Naval Dominance",
+          "link": "https://www.youtube.com/watch?v=PoseidonGuide1"
+        },
+        {
+          "title": "Poseidon Strategy - Mastering Cavalry",
+          "link": "https://www.youtube.com/watch?v=PoseidonGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 4,
+        "economicGrowth": 4,
+        "defensiveCapabilities": 3,
+        "aggressionEarlyGamePower": 4,
+        "mobilityMapControl": 3,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 3,
+        "navalPower": 5,
+        "scoutingVision": 3,
+        "lateGamePotential": 4
+      }
+    },
+    {
+      "id": 4,
+      "name": "Isis",
+      "artwork": "AoMR_Isis_artwork.webp",
+      "pros": [
+        "Great economic growth, especially favor generation through monuments.",
+        "Prevents enemy god powers from being used within influence.",
+        "Strong defensive bonuses with empowered healing."
+      ],
+      "cons": [
+        "Less emphasis on offensive military power.",
+        "Slow to ramp up without resource boosts early on."
+      ],
+      "counters": [6, 5],
+      "counteredBy": [3, 11],
+      "guides": [
+        {
+          "title": "Isis Guide - Economic Powerhouse",
+          "link": "https://www.youtube.com/watch?v=IsisGuide1"
+        },
+        {
+          "title": "Isis Strategy - Defensive Play and Healing",
+          "link": "https://www.youtube.com/watch?v=IsisGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 3,
+        "economicGrowth": 5,
+        "defensiveCapabilities": 4,
+        "aggressionEarlyGamePower": 2,
+        "mobilityMapControl": 2,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 3,
+        "navalPower": 3,
+        "scoutingVision": 2,
+        "lateGamePotential": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ra",
+      "artwork": "AoMR_Ra_artwork.webp",
+      "pros": [
+        "Superior farming boosts that drive rapid economic growth.",
+        "Empowers buildings to work more efficiently.",
+        "Strong myth units and large armies."
+      ],
+      "cons": [
+        "Less aggressive early game.",
+        "Relies heavily on farming economy, which can be vulnerable."
+      ],
+      "counters": [1, 12],
+      "counteredBy": [4, 9],
+      "guides": [
+        {
+          "title": "Ra Guide - Farming for Success",
+          "link": "https://www.youtube.com/watch?v=RaGuide1"
+        },
+        {
+          "title": "Ra Strategy - Empowering Your Empire",
+          "link": "https://www.youtube.com/watch?v=RaGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 4,
+        "economicGrowth": 5,
+        "defensiveCapabilities": 4,
+        "aggressionEarlyGamePower": 2,
+        "mobilityMapControl": 2,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 4,
+        "navalPower": 2,
+        "scoutingVision": 2,
+        "lateGamePotential": 5
+      }
+    },
+    {
+      "id": 6,
+      "name": "Set",
+      "artwork": "AoMR_Set_artwork.webp",
+      "pros": [
+        "Converts wild animals for a unique military advantage.",
+        "Excellent scouting with animal control and map vision.",
+        "Strong in chaos and disruption tactics."
+      ],
+      "cons": [
+        "Relies heavily on map control and wild animals for full potential.",
+        "Weaker economy without natural boosts like Ra or Isis."
+      ],
+      "counters": [7, 11],
+      "counteredBy": [1, 2],
+      "guides": [
+        {
+          "title": "Set Guide - Master of Wild Animals",
+          "link": "https://www.youtube.com/watch?v=SetGuide1"
+        },
+        {
+          "title": "Set Strategy - Scouting and Disruption Tactics",
+          "link": "https://www.youtube.com/watch?v=SetGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 4,
+        "economicGrowth": 3,
+        "defensiveCapabilities": 3,
+        "aggressionEarlyGamePower": 3,
+        "mobilityMapControl": 5,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 4,
+        "navalPower": 2,
+        "scoutingVision": 5,
+        "lateGamePotential": 3
+      }
+    },
+    {
+      "id": 7,
+      "name": "Thor",
+      "artwork": "AoMR_Thor_artwork.webp",
+      "pros": [
+        "Dwarves gather resources faster, boosting economy.",
+        "Powerful siege units like Portable Rams.",
+        "Frost Giants can freeze enemies, giving an advantage in combat."
+      ],
+      "cons": [
+        "Not as infantry-focused as other Norse gods.",
+        "Can be vulnerable to strong early pressure without economic buildup."
+      ],
+      "counters": [2, 5],
+      "counteredBy": [6, 9],
+      "guides": [
+        {
+          "title": "Thor Guide - Siege and Resource Domination",
+          "link": "https://www.youtube.com/watch?v=ThorGuide1"
+        },
+        {
+          "title": "Thor Strategy - Using Dwarves and Frost Giants",
+          "link": "https://www.youtube.com/watch?v=ThorGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 4,
+        "economicGrowth": 4,
+        "defensiveCapabilities": 4,
+        "aggressionEarlyGamePower": 3,
+        "mobilityMapControl": 3,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 5,
+        "navalPower": 2,
+        "scoutingVision": 3,
+        "lateGamePotential": 4
+      }
+    },
+    {
+      "id": 8,
+      "name": "Odin",
+      "artwork": "AoMR_Odin_artwork.webp",
+      "pros": [
+        "Ravens provide free scouting from the start, allowing excellent map control.",
+        "Strong infantry units and myth units like Valkyries that heal troops.",
+        "Boosts to Ulfsarks allow for rapid building and combat efficiency."
+      ],
+      "cons": [
+        "Requires strong infantry micro-management for full effectiveness.",
+        "Less flexibility compared to Thor in terms of resource gathering."
+      ],
+      "counters": [9, 11],
+      "counteredBy": [6, 7],
+      "guides": [
+        {
+          "title": "Odin Guide - Infantry and Mythic Power",
+          "link": "https://www.youtube.com/watch?v=OdinGuide1"
+        },
+        {
+          "title": "Odin Strategy - Mastering Ravens and Valkyries",
+          "link": "https://www.youtube.com/watch?v=OdinGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 5,
+        "economicGrowth": 3,
+        "defensiveCapabilities": 4,
+        "aggressionEarlyGamePower": 3,
+        "mobilityMapControl": 4,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 4,
+        "navalPower": 2,
+        "scoutingVision": 5,
+        "lateGamePotential": 4
+      }
+    },
+    {
+      "id": 9,
+      "name": "Loki",
+      "artwork": "AoMR_Loki_artwork.webp",
+      "pros": [
+        "Guerrilla tactics with myth units summoned during combat.",
+        "Hersirs can spawn myth units by fighting, adding randomness to battles.",
+        "Emphasizes chaos and surprise attacks."
+      ],
+      "cons": [
+        "Riskier playstyle due to reliance on myth units for success.",
+        "Weaker traditional economy and army compared to other gods."
+      ],
+      "counters": [5, 7],
+      "counteredBy": [8, 12],
+      "guides": [
+        {
+          "title": "Loki Guide - Guerrilla Warfare",
+          "link": "https://www.youtube.com/watch?v=LokiGuide1"
+        },
+        {
+          "title": "Loki Strategy - Summoning Myth Units in Battle",
+          "link": "https://www.youtube.com/watch?v=LokiGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 4,
+        "economicGrowth": 3,
+        "defensiveCapabilities": 3,
+        "aggressionEarlyGamePower": 4,
+        "mobilityMapControl": 4,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 5,
+        "navalPower": 2,
+        "scoutingVision": 3,
+        "lateGamePotential": 3
+      }
+    },
+    {
+      "id": 10,
+      "name": "Oranos",
+      "artwork": "AoMR_Oranos_artwork.webp",
+      "pros": [
+        "High mobility with the ability to teleport buildings.",
+        "Shockwave god power disrupts enemy formations.",
+        "Enhanced speed for Atlantean units for better map control."
+      ],
+      "cons": [
+        "Weaker in long, drawn-out battles.",
+        "Less focus on direct military strength and more on mobility."
+      ],
+      "counters": [3, 11],
+      "counteredBy": [12, 9],
+      "guides": [
+        {
+          "title": "Oranos Guide - Mobility and Map Control",
+          "link": "https://www.youtube.com/watch?v=OranosGuide1"
+        },
+        {
+          "title": "Oranos Strategy - Teleporting and Shockwave Tactics",
+          "link": "https://www.youtube.com/watch?v=OranosGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 3,
+        "economicGrowth": 3,
+        "defensiveCapabilities": 3,
+        "aggressionEarlyGamePower": 4,
+        "mobilityMapControl": 5,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 3,
+        "navalPower": 3,
+        "scoutingVision": 4,
+        "lateGamePotential": 3
+      }
+    },
+    {
+      "id": 11,
+      "name": "Kronos",
+      "artwork": "AoMR_Kronos_artwork.webp",
+      "pros": [
+        "Manipulates the battlefield by shifting buildings and using time-based strategies.",
+        "Deconstruction god power can dismantle enemy buildings temporarily.",
+        "Great for surprise assaults and flexible tactics."
+      ],
+      "cons": [
+        "Vulnerable in long sieges and requires strategic planning to excel.",
+        "Lacks strong direct military bonuses."
+      ],
+      "counters": [8, 4],
+      "counteredBy": [10, 6],
+      "guides": [
+        {
+          "title": "Kronos Guide - Time and Battlefield Manipulation",
+          "link": "https://www.youtube.com/watch?v=KronosGuide1"
+        },
+        {
+          "title": "Kronos Strategy - Using Deconstruction Effectively",
+          "link": "https://www.youtube.com/watch?v=KronosGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 3,
+        "economicGrowth": 3,
+        "defensiveCapabilities": 3,
+        "aggressionEarlyGamePower": 4,
+        "mobilityMapControl": 4,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 3,
+        "navalPower": 3,
+        "scoutingVision": 3,
+        "lateGamePotential": 3
+      }
+    },
+    {
+      "id": 12,
+      "name": "Gaia",
+      "artwork": "AoMR_Gaia_artwork.webp",
+      "pros": [
+        "Strong defense with self-healing buildings and slow-down effects from terrain.",
+        "Prevents enemy buildings from regenerating health within her influence.",
+        "Great for players who prefer turtling and holding strong positions."
+      ],
+      "cons": [
+        "Lacks strong offensive military powers.",
+        "Can struggle against fast, aggressive opponents."
+      ],
+      "counters": [3, 9],
+      "counteredBy": [1, 5],
+      "guides": [
+        {
+          "title": "Gaia Guide - Defensive Mastery",
+          "link": "https://www.youtube.com/watch?v=GaiaGuide1"
+        },
+        {
+          "title": "Gaia Strategy - Building Regeneration and Defense",
+          "link": "https://www.youtube.com/watch?v=GaiaGuide2"
+        }
+      ],
+      "metrics": {
+        "militaryStrength": 3,
+        "economicGrowth": 4,
+        "defensiveCapabilities": 5,
+        "aggressionEarlyGamePower": 2,
+        "mobilityMapControl": 2,
+        "godPowerEffectiveness": 4,
+        "mythUnitStrength": 3,
+        "navalPower": 3,
+        "scoutingVision": 3,
+        "lateGamePotential": 4
+      }
+    }
+  ]
+}
